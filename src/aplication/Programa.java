@@ -6,7 +6,7 @@ public class Programa {
 
 //JOGO DE XADREZ - PROGRAMA PRINCIPAL
 		System.out.println("Jogo de Xadrez em Portugues");
-
+		System.out.println("Bora jogar?");
 	}
 
 }
